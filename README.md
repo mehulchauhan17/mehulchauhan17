@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulchauhan17&label=Profile%20views&color=0e75b6&style=flat" alt="mehulchauhan17" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning SDE at Visteon 
 
 - 👨‍💻 All of my projects are available at [https://mehulchauhan17.github.io/](https://mehulchauhan17.github.io/)
 
